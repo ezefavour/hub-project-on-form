@@ -1,0 +1,5 @@
+table,th,td,caption{
+    border: 2px solid black;
+    border-collapse:collapse;
+    background-color:rgb(50, 100, 150);
+}
